@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = 'http://localhost/ci_angular/';
+$config['base_url'] = 'http://localhost/angularjs_ci/';
 
 /*
 |--------------------------------------------------------------------------
