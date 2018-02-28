@@ -12,4 +12,19 @@
 
     $config['base_url'] = 'https:localhost/Codeigniter-Crud-With-Angulas-Js';
 
+3. Change Hostname, Username, Password And Database in Codeigniter-Crud-With-Angulas-Js/AnguApplication/config/database.php<br>
+    
+    $db['default']['hostname'] = 'localhost';
+    $db['default']['username'] = 'root';
+    $db['default']['password'] = ''; //default 
+    $db['default']['database'] = 'db_biodata';
+
+
+
+
+
+<h2> Build With </h2>
+
+1. PHP Codeigniter Framework
+2. Angular JS
 
