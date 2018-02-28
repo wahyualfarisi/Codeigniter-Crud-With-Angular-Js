@@ -1,3 +1,9 @@
 # Codeigniter-Crud-With-Angulas-Js
 
-<h3> You can easily get the project running locally by following below installation steps. </h3>>
+<h4> You can easily get the project running locally by following below installation steps. </h4>
+
+<h4>instalation<h4>
+1.clone the repo in your pc
+https://github.com/wahyualfarisi/Codeigniter-Crud-With-Angulas-Js.git
+
+
